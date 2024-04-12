@@ -10,7 +10,7 @@ spec:
   project: default
   source:
     path: backend
-    repoURL: https://github.com/Panda-Academy-Core-2-0/ArgoCD/
+    repoURL: https://github.com/arekaws1/ArgoCD/
     targetRevision: main
   syncPolicy:
     automated: {}

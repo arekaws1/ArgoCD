@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: frontend
-        image: pandaacademy/frontend:RC-3.c052595
+        image: arekaws1/frontend:latest
         ports:
         - containerPort: 5000
         env:
